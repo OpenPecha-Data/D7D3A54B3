@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   bd65703e972143739335954215929923:
     parts: {}
+    work_id: D4132
     span:
-    - vol: 93
+    - base: 7ad1
       start: 1
       end: 6868
-    work_id: D4132
